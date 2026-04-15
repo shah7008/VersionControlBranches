@@ -4,4 +4,3 @@ def function(value):
 
 
 print(function(20))
-print(x)
